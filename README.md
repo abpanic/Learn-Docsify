@@ -12,12 +12,12 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/docsify-js-tutorial/">
+    <a href="https://michaelcurrin.github.io/Learn-Docsify/">
         <img src="/sample-1.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
     </a>
     <br>
     <br>
-    <a href="https://michaelcurrin.github.io/docsify-js-tutorial/">
+    <a href="https://michaelcurrin.github.io/Learn-Docsify/">
         <img src="/sample-2.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
     </a>
 </div>
@@ -31,7 +31,7 @@ Follow the online tutorial. Start with the basics or get to the menu customizati
 
 <div align="center">
 
-[![DocsifyJS Tutorial](https://img.shields.io/badge/View-Tutorial-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-tutorial/)
+[![DocsifyJS Tutorial](https://img.shields.io/badge/View-Tutorial-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/Learn-Docsify/)
 
 </div>
 

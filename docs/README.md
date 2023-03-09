@@ -2,8 +2,8 @@
 > Build a Markdown-based docs site using _DocsifyJS_ and _GitHub Pages_
 
 [![GitHub tag](https://img.shields.io/github/tag/abpanic/Learn-Docsify?color=3271a8)](https://github.com/abpanic/Learn-Docsify/tags/)
-[![stars - docsify-js-tutorial](https://img.shields.io/github/stars/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
-[![forks - docsify-js-tutorial](https://img.shields.io/github/forks/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
+[![stars - Learn-Docsify](https://img.shields.io/github/stars/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
+[![forks - Learn-Docsify](https://img.shields.io/github/forks/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
 
 [![Made with Docsify latest](https://img.shields.io/npm/v/docsify?label=docsify&color=3271a8)](https://docsify.js.org/ "Go to Docsify homepage")
 
@@ -26,7 +26,7 @@ Code snippets and recommendations are provided here as kind of cheatsheet or coo
 
 View the source for this tutorial site, which is also built using Docsify:
 
-[![Docsify-js-tutorial](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-tutorial&color=3271a8&logo=github)](https://github.com/abpanic/Learn-Docsify "Go to DocsifyJS Tutorial repo on GitHub")
+[![Learn-Docsify](https://img.shields.io/static/v1?label=DocsifyTutorial&message=Learn-Docsify&color=3271a8&logo=github)](https://github.com/abpanic/Learn-Docsify "Go to DocsifyJS Tutorial repo on GitHub")
 
 
 ## Purpose of this tutorial
@@ -49,7 +49,7 @@ This project provides three approaches for choosing a Docsify site to run:
     - Clone this repo and start serving the docs repo immediately.
 - [Set up your own docs site](#setup-your-own-docs-site) from scratch.
     - Convert your _docs_ directory into a docs site hosted on GitHub Pages. Copy from some templates files to get up and running with as little effort as possible.
-- Use my [DocsifyJS Template](https://github.com/michaelcurrin/docsify-js-template/) repo
+- Use my [DocsifyJS Template](https://github.com/abpanic/docsify-template/) repo
     - A minimal template which goes with this tutorial.
     - Click [Use this template](https://img.shields.io/badge/Use_this_template-green.svg?style=for-the-badge) to add a copy to you own repos. you'll be able to starting serving a site on GitHub Pages or locally.
 
@@ -60,10 +60,7 @@ _Note: The instructions in this repo are intended for Linux and macOS environmen
 
 Some docs site I have built. These give you an idea of content, layout and customization
 
-- [unicron](https://michaelcurrin.github.io/unicron/#/)
-- [twitterverse](https://michaelcurrin.github.io/twitterverse/#/)
-- [python-twitter-guide](https://michaelcurrin.github.io/python-twitter-guide/#/)
-
+- [webdevtutorials](https://webdevtutorials101.netlify.app/#/)
 
 ## Why use _Docsify_?
 
@@ -930,7 +927,7 @@ e.g.
 $ docsify serve docs
 ```
 ```
-Serving .../docsify-js-tutorial/docs now.
+Serving .../Learn-Docsify/docs now.
 Listening at http://localhost:3000
 ```
 
