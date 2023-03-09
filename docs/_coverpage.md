@@ -13,7 +13,7 @@
 - :pushpin: No install step. No local dependencies!
 - :cloud: Serve locally and on GitHub Pages / Netlify
 
-[Use a starter template](https://github.com/MichaelCurrin/docsify-js-template/generate)
+[Use a starter template](https://github.com/abpanic/docsify-js-template/generate)
 [Learn about Docsify](#docsifyjs-tutorial)
 
 ![color](#eeefef)

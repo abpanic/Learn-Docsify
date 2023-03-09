@@ -1,9 +1,9 @@
 # DocsifyJS Tutorial
 > Build a Markdown-based docs site using _DocsifyJS_ and _GitHub Pages_
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://GitHub.com/MichaelCurrin/docsify-js-tutorial/tags/)
-[![stars - docsify-js-tutorial](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/MichaelCurrin/docsify-js-tutorial)
-[![forks - docsify-js-tutorial](https://img.shields.io/github/forks/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/MichaelCurrin/docsify-js-tutorial)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://github.com/abpanic/Learn-Docsify/tags/)
+[![stars - docsify-js-tutorial](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/abpanic/Learn-Docsify)
+[![forks - docsify-js-tutorial](https://img.shields.io/github/forks/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/abpanic/Learn-Docsify)
 
 [![Made with Docsify latest](https://img.shields.io/npm/v/docsify?label=docsify&color=3271a8)](https://docsify.js.org/ "Go to Docsify homepage")
 
@@ -26,7 +26,7 @@ Code snippets and recommendations are provided here as kind of cheatsheet or coo
 
 View the source for this tutorial site, which is also built using Docsify:
 
-[![MichaelCurrin - docsify-js-tutorial](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-tutorial&color=3271a8&logo=github)](https://github.com/MichaelCurrin/docsify-js-tutorial "Go to DocsifyJS Tutorial repo on GitHub")
+[![MichaelCurrin - docsify-js-tutorial](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-tutorial&color=3271a8&logo=github)](https://github.com/abpanic/Learn-Docsify "Go to DocsifyJS Tutorial repo on GitHub")
 
 
 ## Purpose of this tutorial
@@ -85,7 +85,7 @@ This great [article](https://dev.to/evilmartians/keeping-oss-documentation-with-
 
 ### My projects
 
-- [DocsifyJS Tutorial](https://github.com/michaelcurrin/docsify-js-tutorial/) repo on GitHub.
+- [DocsifyJS Tutorial](https://github.com/abpanic/Learn-Docsify/) repo on GitHub.
 - [DocsifyJS Template](https://michaelcurrin.github.io/docsify-js-template/) project.
 - [MkDocs Quickstart](https://michaelcurrin.github.io/mkdocs-quickstart/) project
     - As an alternative to Docsify, try this demo / tutorial / template around MkDocs.
@@ -207,7 +207,7 @@ $ # Clone with SSH:
 $ git clone git@github.com:MichaelCurrin/docsify-js-tutorial.git
 
 $ # Clone with HTTPS:
-$ git clone https://github.com/MichaelCurrin/docsify-js-tutorial.git
+$ git clone https://github.com/abpanic/Learn-Docsify.git
 ```
 
 ?> **Note:** No installation is needed. When the HTML page is opened in the browser, the _Docsify_ library will be fetched from a CDN by the browser.
@@ -305,7 +305,7 @@ Example:
 
 1. Ensure `loadSidebar: true` is set in the _index.html_ file.
     - The value of `true` means `*_sidebar.md*` will be referenced by the app.
-    - The sidebar is already enabled in the quickstart [index.html](https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/quickstart/index.html).
+    - The sidebar is already enabled in the quickstart [index.html](https://github.com/abpanic/Learn-Docsify/blob/master/quickstart/index.html).
 2. Edit the *_sidebar.md* file.
 3. Add items using the guidelines above.
 
@@ -623,7 +623,7 @@ Arguments:
         ```
     - Example based on this repo:
         ```javascript
-        const docBase = 'https://github.com/MichaelCurrin/docsify-js-tutorial/blob/master/docs/';
+        const docBase = 'https://github.com/abpanic/Learn-Docsify/blob/master/docs/';
 
         EditOnGitHubPlugin.create(docBase);
         ```
@@ -631,7 +631,7 @@ Arguments:
 Full example:
 
 ```javascript
-const repo = 'https://github.com/MichaelCurrin/docsify-js-tutorial';
+const repo = 'https://github.com/abpanic/Learn-Docsify';
 
 window.$docsify = {
     name: 'DocsifyJS Tutorial',

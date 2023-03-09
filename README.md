@@ -1,12 +1,12 @@
 # Learn DocsifyJS
-> Build a Markdown-based documentation site using _DocsifyJS_ and _GH Pages_ 📒 
+> Build a Markdown-based documentation site using _DocsifyJS_ and Vercel 📒 
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://GitHub.com/MichaelCurrin/docsify-js-tutorial/tags/)
-[![License](https://img.shields.io/badge/License-MIT-3271a8)](#license)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://GitHub.com/abpanic/Learn-Docsify/tags/)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-3271a8)](/CONTRIBUTING.md)
 
 [![Made with latest Docsify](https://img.shields.io/badge/docsify-v4-blue?label=docsify)](https://docsify.js.org/ "Go to Docsify website")
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-3271a8?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages docs")
+![Hosted on Vercel](https://therealsujitk-vercel-badge.vercel.app/?app={VERCEL_APP_NAME})
 
 
 ## Preview
@@ -100,10 +100,10 @@ _Docsify_ works as a single-page application on this one page - data from your m
 See [Contributing](/CONTRIBUTING.md) guidelines.
 
 
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
-
 - You can modify and reuse this project.
-- A copy of the license and copyright notice must be included with the software, according to this [MIT definition](https://choosealicense.com/licenses/#mit).
 - Please link back to this repo somewhere in your project.
+
+# Hosting on Vercel
+Login into your Vercel Account.
+
+run : npm i -g vercel
