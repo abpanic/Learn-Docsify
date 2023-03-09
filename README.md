@@ -1,12 +1,12 @@
 # Learn DocsifyJS
-> Build a Markdown-based documentation site using _DocsifyJS_ and Vercel 📒 
+> Build a Markdown-based documentation site using _DocsifyJS_ and Netlify 📒 
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://GitHub.com/abpanic/Learn-Docsify/tags/)
+[![GitHub tag](https://img.shields.io/github/tag/abpanic/Learn-Docsify?color=3271a8)](https://GitHub.com/abpanic/Learn-Docsify/tags/)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-3271a8)](/CONTRIBUTING.md)
 
 [![Made with latest Docsify](https://img.shields.io/badge/docsify-v4-blue?label=docsify)](https://docsify.js.org/ "Go to Docsify website")
-![Hosted on Vercel](https://therealsujitk-vercel-badge.vercel.app/?app={VERCEL_APP_NAME})
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a65305b-3ebf-4c7f-8869-05194a0d3fdc/deploy-status)](https://app.netlify.com/sites/learn-docsify/deploys)
 
 
 ## Preview

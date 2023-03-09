@@ -1,9 +1,9 @@
 # DocsifyJS Tutorial
 > Build a Markdown-based docs site using _DocsifyJS_ and _GitHub Pages_
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-tutorial?color=3271a8)](https://github.com/abpanic/Learn-Docsify/tags/)
-[![stars - docsify-js-tutorial](https://img.shields.io/github/stars/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/abpanic/Learn-Docsify)
-[![forks - docsify-js-tutorial](https://img.shields.io/github/forks/MichaelCurrin/docsify-js-tutorial?style=social)](https://github.com/abpanic/Learn-Docsify)
+[![GitHub tag](https://img.shields.io/github/tag/abpanic/Learn-Docsify?color=3271a8)](https://github.com/abpanic/Learn-Docsify/tags/)
+[![stars - docsify-js-tutorial](https://img.shields.io/github/stars/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
+[![forks - docsify-js-tutorial](https://img.shields.io/github/forks/abpanic/Learn-Docsify?style=social)](https://github.com/abpanic/Learn-Docsify)
 
 [![Made with Docsify latest](https://img.shields.io/npm/v/docsify?label=docsify&color=3271a8)](https://docsify.js.org/ "Go to Docsify homepage")
 
@@ -26,7 +26,7 @@ Code snippets and recommendations are provided here as kind of cheatsheet or coo
 
 View the source for this tutorial site, which is also built using Docsify:
 
-[![MichaelCurrin - docsify-js-tutorial](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-tutorial&color=3271a8&logo=github)](https://github.com/abpanic/Learn-Docsify "Go to DocsifyJS Tutorial repo on GitHub")
+[![Docsify-js-tutorial](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-tutorial&color=3271a8&logo=github)](https://github.com/abpanic/Learn-Docsify "Go to DocsifyJS Tutorial repo on GitHub")
 
 
 ## Purpose of this tutorial
@@ -204,7 +204,7 @@ Clone this repo to your machine with one of these commands:
 
 ```bash
 $ # Clone with SSH:
-$ git clone git@github.com:MichaelCurrin/docsify-js-tutorial.git
+$ git clone git@github.com:abpanic/Learn-Docsify.git
 
 $ # Clone with HTTPS:
 $ git clone https://github.com/abpanic/Learn-Docsify.git
@@ -297,7 +297,7 @@ How to set up a sidebar file:
 
 Example:
 
-[\_sidebar.md](https://raw.githubusercontent.com/MichaelCurrin/docsify-js-tutorial/master/nested-example/_sidebar.md ':include :type=code')
+[\_sidebar.md](https://raw.githubusercontent.com/abpanic/Learn-Docsify/master/nested-example/_sidebar.md ':include :type=code')
 
 ?> The sidebar is a markdown file, so you can styling as a `**Title**`.
 
@@ -776,7 +776,7 @@ The path could be:
         ```markdown
         [hello.md](//raw.githubusercontent.com/UserName/repo-name/main/hello.md ":include")
 
-        [\_sidebar.md](//raw.githubusercontent.com/MichaelCurrin/docsify-js-tutorial/master/nested-example/_sidebar.md ":include :type=code")
+        [\_sidebar.md](//raw.githubusercontent.com/abpanic/Learn-Docsify/master/nested-example/_sidebar.md ":include :type=code")
         ```
     - Make sure to use the **raw** URL so you only reference plain text andbnot the entire GitHub UI HTML.
     - A protocol of `//` is recommended, since `https://` is needed for a remote and `http://` for localhost, to avoid a CORS error.
