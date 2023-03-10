@@ -4,7 +4,9 @@
   DocsifyJS Tutorial
 </h1>
 
-> How to build a Markdown-based docs site using DocsifyJS and GH Pages
+> How to build a Markdown-based docs site using DocsifyJS on GH pages, Netlify, Vercel and Azure 
+
+Compiled by: [Abhilash Panicker](https://debuggr.vercel.app/)
 
 - :nut_and_bolt: Guide to [DocsifyJS](https://docsify.js.org/) - no JS experience needed
 - :hourglass_flowing_sand: Quickly setup a modern, themed, responsive site
